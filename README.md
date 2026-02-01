@@ -1,5 +1,8 @@
 # vibe_code
 
+[![Python Tests](https://github.com/knguyen7567/vibe_code/actions/workflows/python-tests.yml/badge.svg)](https://github.com/knguyen7567/vibe_code/actions)
+[![License: MIT](https://img.shields.io/github/license/knguyen7567/vibe_code)](LICENSE)
+
 Colorful Tkinter calculator app with tests.
 
 Features:
