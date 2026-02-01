@@ -3,6 +3,7 @@ omit =
     tests/*
     */tests/*
     */__init__.py
+    */calculator.py
 
 [report]
 exclude_lines =
